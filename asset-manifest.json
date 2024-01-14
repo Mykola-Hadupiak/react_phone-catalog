@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.e8fb0f01.css",
+    "main.js": "./static/js/main.2cb64ca1.js",
+    "static/media/banner-phones.png": "./static/media/banner-phones.b4eeda8bd82b712057a2.png",
+    "static/media/banner-tablets.png": "./static/media/banner-tablets.a962057c1043a08f7737.png",
+    "static/media/Mont-Regular.otf": "./static/media/Mont-Regular.1d26d89f7339866d3133.otf",
+    "static/media/Mont-SemiBold.otf": "./static/media/Mont-SemiBold.8979d71a3146ca1d761f.otf",
+    "static/media/Mont-Bold.otf": "./static/media/Mont-Bold.03c8c2f6127c1da0fc39.otf",
+    "static/media/banner-accessories.png": "./static/media/banner-accessories.bdd2e0fca0159e52f41c.png",
+    "static/media/cart.svg": "./static/media/cart.1962e42406793fa66f0d.svg",
+    "static/media/favourites.svg": "./static/media/favourites.dbd19c030c984812b400.svg",
+    "static/media/logo.svg": "./static/media/logo.c94176926904d965da98.svg",
+    "static/media/vecrot-right-main.svg": "./static/media/vecrot-right-main.70f42d77d4895623e71b.svg",
+    "static/media/vector-left-main.svg": "./static/media/vector-left-main.5c69c0ad05b7b7fe196d.svg",
+    "static/media/vector-up-main.svg": "./static/media/vector-up-main.e43f1786a2b6007f14e6.svg",
+    "index.html": "./index.html",
+    "main.e8fb0f01.css.map": "./static/css/main.e8fb0f01.css.map",
+    "main.2cb64ca1.js.map": "./static/js/main.2cb64ca1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8fb0f01.css",
+    "static/js/main.2cb64ca1.js"
+  ]
+}
