@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.e79301dd.css",
-    "main.js": "./static/js/main.816b7ee0.js",
+    "main.css": "./static/css/main.0926e8b9.css",
+    "main.js": "./static/js/main.c3ac9765.js",
     "static/media/category-tablets.png": "./static/media/category-tablets.51782e18205a1ca01ce8.png",
     "static/media/category-phones.png": "./static/media/category-phones.af93d992917380dfe206.png",
     "static/media/banner-phones.png": "./static/media/banner-phones.b4eeda8bd82b712057a2.png",
@@ -17,6 +17,7 @@
     "static/media/comming-soon.png": "./static/media/comming-soon.499d1e16bcba810127bf.png",
     "static/media/checkout.png": "./static/media/checkout.15bd853a4bbb477b1c31.png",
     "static/media/banner-accessories.png": "./static/media/banner-accessories.bdd2e0fca0159e52f41c.png",
+    "static/media/went-wrong.png": "./static/media/went-wrong.aad92c5ed0d772737524.png",
     "static/media/cart.svg": "./static/media/cart.1962e42406793fa66f0d.svg",
     "static/media/favourites.svg": "./static/media/favourites.dbd19c030c984812b400.svg",
     "static/media/logo.svg": "./static/media/logo.c94176926904d965da98.svg",
@@ -36,11 +37,11 @@
     "static/media/minus-main.svg": "./static/media/minus-main.cce4862297a181fdf808.svg",
     "static/media/minus.svg": "./static/media/minus.cecb4be39afa7b933ec1.svg",
     "index.html": "./index.html",
-    "main.e79301dd.css.map": "./static/css/main.e79301dd.css.map",
-    "main.816b7ee0.js.map": "./static/js/main.816b7ee0.js.map"
+    "main.0926e8b9.css.map": "./static/css/main.0926e8b9.css.map",
+    "main.c3ac9765.js.map": "./static/js/main.c3ac9765.js.map"
   },
   "entrypoints": [
-    "static/css/main.e79301dd.css",
-    "static/js/main.816b7ee0.js"
+    "static/css/main.0926e8b9.css",
+    "static/js/main.c3ac9765.js"
   ]
 }
